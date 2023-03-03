@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 working on Sungshin W.univ. AI convergence student
+- :mortar_board: working on Sungshin W.univ. AI convergence student
 - 🌱 learning Kotlin
-- 💬 studying at SOPT 31th, 32th
+- :sparkles: studying at SOPT 31th, 32th
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajeong67&show_icons=true&theme=radical)
 
