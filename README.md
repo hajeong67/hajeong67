@@ -8,5 +8,6 @@ Here are some ideas to get you started:
 - 🌱 learning ML
 - :sparkles: studying at SOPT 31th, 32th
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajeong67&layout=compact"><br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajeong67&show_icons=true&theme=radical)
 
